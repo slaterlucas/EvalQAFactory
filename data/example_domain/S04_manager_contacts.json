@@ -1,0 +1,68 @@
+[
+  {
+    "searched_name": "Alice Johnson",
+    "manager_contact_details": [
+      {
+        "email_data": {
+          "DisplayName": "Robert Chen",
+          "WorkEmail": "robert.chen@example.com"
+        },
+        "phones_data": [
+          {
+            "AreaCode": "555",
+            "PhoneNumber": "111-2222",
+            "PrimaryFlag": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "searched_name": "Marcus Williams",
+    "manager_contact_details": [
+      {
+        "email_data": {
+          "DisplayName": "Sarah Kim",
+          "WorkEmail": "sarah.kim@example.com"
+        },
+        "phones_data": [
+          {
+            "AreaCode": "555",
+            "PhoneNumber": "333-4444",
+            "PrimaryFlag": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "searched_name": "Priya Patel",
+    "manager_contact_details": [
+      {
+        "email_data": {
+          "DisplayName": "James Morton",
+          "WorkEmail": "james.morton@example.com"
+        },
+        "phones_data": []
+      }
+    ]
+  },
+  {
+    "searched_name": "David Nakamura",
+    "manager_contact_details": [
+      {
+        "email_data": {
+          "DisplayName": "Elena Volkov",
+          "WorkEmail": "elena.volkov@example.com"
+        },
+        "phones_data": [
+          {
+            "AreaCode": "555",
+            "PhoneNumber": "777-8888",
+            "PrimaryFlag": true
+          }
+        ]
+      }
+    ]
+  }
+]

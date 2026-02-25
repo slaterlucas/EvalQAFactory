@@ -1,0 +1,9 @@
+# Google Gemini API key (required)
+GOOGLE_API_KEY=your-gemini-api-key-here
+
+# Optional: data source credentials for the discovery tool
+# DATA_SOURCE_URL=https://api.example.com
+# DATA_SOURCE_API_KEY=your-api-key-here
+
+# Optional: environment tag for multi-env segregation
+# ENV_TAG=DEV

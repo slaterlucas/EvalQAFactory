@@ -1,0 +1,72 @@
+[
+  {
+    "response_data": {
+      "items": [
+        {
+          "DisplayName": "Alice Johnson",
+          "PersonNumber": "EMP-10042",
+          "WorkEmail": "alice.johnson@example.com",
+          "WorkPhone": "(555) 234-5678",
+          "BusinessTitle": "Senior Software Engineer",
+          "ManagerDisplayName": "Robert Chen"
+        }
+      ]
+    }
+  },
+  {
+    "response_data": {
+      "items": [
+        {
+          "DisplayName": "Marcus Williams",
+          "PersonNumber": "EMP-10087",
+          "WorkEmail": "marcus.williams@example.com",
+          "WorkPhone": "(555) 345-6789",
+          "BusinessTitle": "Product Manager",
+          "ManagerDisplayName": "Sarah Kim"
+        }
+      ]
+    }
+  },
+  {
+    "response_data": {
+      "items": [
+        {
+          "DisplayName": "Priya Patel",
+          "PersonNumber": "EMP-10123",
+          "WorkEmail": "priya.patel@example.com",
+          "WorkPhone": "(555) 456-7890",
+          "BusinessTitle": "Data Analyst",
+          "ManagerDisplayName": "James Morton"
+        }
+      ]
+    }
+  },
+  {
+    "response_data": {
+      "items": [
+        {
+          "DisplayName": "David Nakamura",
+          "PersonNumber": "EMP-10204",
+          "WorkEmail": "david.nakamura@example.com",
+          "WorkPhone": "(555) 567-8901",
+          "BusinessTitle": "UX Designer",
+          "ManagerDisplayName": "Elena Volkov"
+        }
+      ]
+    }
+  },
+  {
+    "response_data": {
+      "items": [
+        {
+          "DisplayName": "Sofia Ramirez",
+          "PersonNumber": "EMP-10315",
+          "WorkEmail": "sofia.ramirez@example.com",
+          "WorkPhone": null,
+          "BusinessTitle": "Marketing Coordinator",
+          "ManagerDisplayName": "Robert Chen"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "display_name": "Alice Johnson",
+    "phones_data": [
+      {
+        "AreaCode": "555",
+        "PhoneNumber": "234-5678",
+        "PrimaryFlag": true
+      }
+    ],
+    "email_data": {
+      "WorkEmail": "alice.johnson@example.com"
+    }
+  },
+  {
+    "display_name": "Marcus Williams",
+    "phones_data": [
+      {
+        "AreaCode": "555",
+        "PhoneNumber": "345-6789",
+        "PrimaryFlag": true
+      }
+    ],
+    "email_data": {
+      "WorkEmail": "marcus.williams@example.com"
+    }
+  },
+  {
+    "display_name": "Priya Patel",
+    "phones_data": [],
+    "email_data": {
+      "WorkEmail": "priya.patel@example.com"
+    }
+  },
+  {
+    "display_name": "David Nakamura",
+    "phones_data": [
+      {
+        "AreaCode": "555",
+        "PhoneNumber": "567-8901",
+        "PrimaryFlag": true
+      }
+    ],
+    "email_data": {
+      "WorkEmail": "david.nakamura@example.com"
+    }
+  },
+  {
+    "display_name": "Sofia Ramirez",
+    "phones_data": [],
+    "email_data": {}
+  }
+]

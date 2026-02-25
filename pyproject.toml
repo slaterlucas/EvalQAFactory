@@ -1,0 +1,17 @@
+[project]
+name = "eval-qa-factory"
+version = "0.1.0"
+description = "Configurable pipeline for generating statistically rigorous evaluation QA datasets"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "backoff>=2.2.1",
+    "google-generativeai>=0.8.5",
+    "numpy>=1.24.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+    "xlsxwriter>=3.2.0",
+]
