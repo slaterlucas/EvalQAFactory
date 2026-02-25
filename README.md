@@ -2,6 +2,8 @@
 
 A configurable pipeline for generating statistically rigorous evaluation datasets for domain-specific AI assistants. Given structured ground-truth data, the system produces natural-language question-answer pairs organized by scenario, suitable for benchmarking chatbot accuracy and coverage.
 
+> **Note:** This project originated during an internship where I built evaluation pipelines for production AI assistants. The codebase has since been generalized, proprietary data and domain logic have been replaced with example configs to demonstrate the architecture and method.
+
 ## Key Design Decisions
 
 - **Ground-truth-first generation** — every QA pair starts from verified data, guaranteeing answer correctness. An LLM (Google Gemini) is used only to rephrase questions naturally, not to invent answers.
